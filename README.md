@@ -1,2 +1,2 @@
 # Patika.Dev_SQL
-ODEV1
+patika sql ödevleri için bir proje dosyasıdır.
